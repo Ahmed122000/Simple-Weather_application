@@ -52,9 +52,6 @@ This project is part of the **Udacity Front-End Web Developer Nanodegree**. You 
 - **CORS**: Middleware for handling cross-origin requests.
 - **OpenWeatherMap API**: Used to fetch weather data based on the zip code.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
