@@ -1,5 +1,5 @@
 /* Global Variables */
-const apiKey = 'e9b70cd1833d649a49fff1a3cc5546d9&units=imperial';
+const apiKey = 'your-api-key';
 const url = `http://api.openweathermap.org/data/2.5/weather?`
 
 const zipCode = document.getElementById("zip");
